@@ -1,5 +1,15 @@
 ## Pokemon Gen 6 OU Team Builder
 
+https://github.com/pkmn/smogon/tree/main/smogon - retrieve data of a pokemon
+https://pokeapi.co/docs/v2#pokemon-section - retrieves more data!
+
+discussion:
+https://www.smogon.com/forums/threads/ou-tier-api.3772302/
+
+Pokemon eligible for Gen 9 OU include any species listed in formats-data.ts with a tier of OU, UU, RU, NU, or lower, as tiers are upwardly inclusive, excluding only Ubers and Anything Goes. To reconcile with generation info, cross-reference species with a Pokédex source or check specific generational mods for past-gen data.
+https://github.com/smogon/pokemon-showdown/blob/master/data/formats-data.ts
+
+
 ### Phase 1 — Data Pipeline
 - [ ] Parse Smogon Gen 6 OU usage stat files (monthly CSVs)
 - [ ] Extract per-Pokemon moveset distributions
@@ -87,3 +97,7 @@ gen6ou-team-builder/
     ├── test_team_graph.py
     └── test_validator.py
 ```
+
+ran `python -m showdown_server.server` to make server.py a `showdown_server` a module
+* tells python to act as if server.py is the main entry point for this session
+* code executes from here
