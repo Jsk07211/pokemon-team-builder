@@ -1,0 +1,2537 @@
+{
+  "Charizard-Mega-X": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive"
+  },
+  "Arbok": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Pivot"
+  },
+  "Dugtrio": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Life Orb Attacker"
+  },
+  "Alakazam-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Special Attacker"
+  },
+  "Dodrio": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Gengar": {
+    "cluster": 1,
+    "smogon_label": "Special Attacker",
+    "inferred_label": "Special Attacker"
+  },
+  "Electrode": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Support"
+  },
+  "Exeggutor": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Noctowl": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me"
+  },
+  "Qwilfish": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Magcargo": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Mantine": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Raikou": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Attacker"
+  },
+  "Entei": {
+    "cluster": 2,
+    "smogon_label": "Attacker",
+    "inferred_label": "Attacker"
+  },
+  "Suicune": {
+    "cluster": 3,
+    "smogon_label": "Bulky Tailwind",
+    "inferred_label": "Bulky Tailwind"
+  },
+  "Swellow": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Pelipper": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Masquerain": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Volbeat": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Illumise": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Torkoal": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Lunatone": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Solrock": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Castform": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Tailwind"
+  },
+  "Castform-Sunny": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "GeoPass"
+  },
+  "Castform-Rainy": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "GeoPass"
+  },
+  "Chimecho": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Latias-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Support"
+  },
+  "Latios-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Support"
+  },
+  "Wormadam": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "SubCM"
+  },
+  "Wormadam-Sandy": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Wormadam-Trash": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Cherrim": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Gastrodon-East": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Recover + 3 Attacks"
+  },
+  "Gigalith": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Life Orb Attacker"
+  },
+  "Audino-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Darmanitan-Zen": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Crustle": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Vanilluxe": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Beartic": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Cryogonal": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Greninja": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Vivillon": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Sun Attacker"
+  },
+  "Vivillon-Icy Snow": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Polar": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Tundra": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Continental": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Garden": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Elegant": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Modern": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Marine": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Archipelago": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-High Plains": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Sandstorm": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-River": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Monsoon": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Savanna": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Sun": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Ocean": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Jungle": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Vivillon-Fancy": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Sun Attacker"
+  },
+  "Vivillon-Pokeball": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Sun Attacker"
+  },
+  "Meowstic": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Zygarde": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Weezing": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Support"
+  },
+  "Gardevoir": {
+    "cluster": 1,
+    "smogon_label": "Bulky Special Attacker",
+    "inferred_label": "Bulky Special Attacker"
+  },
+  "Flygon": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Magnezone": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Leafeon": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Glaceon": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Gallade": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Heatran": {
+    "cluster": 0,
+    "smogon_label": "Substitute",
+    "inferred_label": "Substitute"
+  },
+  "Aegislash": {
+    "cluster": 2,
+    "smogon_label": "Wide Guard Tank",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Aegislash-Blade": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "GeoPass"
+  },
+  "Gourgeist-Small": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Gourgeist-Large": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Hawlucha": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Sun Attacker"
+  },
+  "Avalugg": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Noivern": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Shiftry": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Prinplup": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Empoleon": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Cresselia": {
+    "cluster": 1,
+    "smogon_label": "Offensive Trick Room",
+    "inferred_label": "Offensive Trick Room"
+  },
+  "Ivysaur": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Venusaur": {
+    "cluster": 0,
+    "smogon_label": "Mega Tank",
+    "inferred_label": "Mega Tank"
+  },
+  "Venusaur-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Charmeleon": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Charizard": {
+    "cluster": 0,
+    "smogon_label": "Sun Attacker",
+    "inferred_label": "Sun Attacker"
+  },
+  "Charizard-Mega-Y": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Wartortle": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Blastoise": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Blastoise-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Beedrill-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Hazard Setter"
+  },
+  "Pidgeot": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Pidgeot-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Raticate": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Fearow": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Raichu": {
+    "cluster": 0,
+    "smogon_label": "Fast Support",
+    "inferred_label": "Fast Support"
+  },
+  "Sandslash": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Sand Rush Attacker"
+  },
+  "Nidoqueen": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Nidoking": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Clefairy": {
+    "cluster": 0,
+    "smogon_label": "Friend Guard Support",
+    "inferred_label": "Friend Guard Support"
+  },
+  "Clefable": {
+    "cluster": 3,
+    "smogon_label": "Follow Me Support",
+    "inferred_label": "Follow Me Support"
+  },
+  "Ninetales": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Wigglytuff": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Golbat": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Vileplume": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Parasect": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Rage Powder"
+  },
+  "Venomoth": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Persian": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Power-Up Punch"
+  },
+  "Golduck": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Primeape": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Arcanine": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Assault Vest"
+  },
+  "Poliwrath": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Kadabra": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Attacker"
+  },
+  "Alakazam": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Attacker"
+  },
+  "Machoke": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Machamp": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Victreebel": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Tentacruel": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Golem": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Ponyta": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Rapidash": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Slowbro": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Trick Room Setter"
+  },
+  "Slowbro-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Magneton": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Attacker"
+  },
+  "Dewgong": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Muk": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Cloyster": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Haunter": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Gengar-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Trick Room Trapper"
+  },
+  "Hypno": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Kingler": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Marowak": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Hitmonlee": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Hitmonchan": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Rhydon": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Chansey": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Defensive"
+  },
+  "Tangela": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Rage Powder"
+  },
+  "Kangaskhan": {
+    "cluster": 3,
+    "smogon_label": "Power-Up Punch",
+    "inferred_label": "Power-Up Punch"
+  },
+  "Kangaskhan-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Seadra": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Seaking": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Starmie": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Trick Room Setter"
+  },
+  "Mr. Mime": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Power-Up Punch"
+  },
+  "Scyther": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Jynx": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Trick Room Setter"
+  },
+  "Electabuzz": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Attacker"
+  },
+  "Magmar": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Pinsir": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Pinsir-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Tauros": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Pivot"
+  },
+  "Gyarados": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Pivot"
+  },
+  "Gyarados-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Lapras": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Vaporeon": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Defensive"
+  },
+  "Jolteon": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Support"
+  },
+  "Flareon": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Omastar": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Kabutops": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Aerodactyl": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Swords Dance"
+  },
+  "Aerodactyl-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive"
+  },
+  "Snorlax": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Articuno": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Tailwind"
+  },
+  "Zapdos": {
+    "cluster": 0,
+    "smogon_label": "Bulky Tailwind",
+    "inferred_label": "Bulky Tailwind"
+  },
+  "Moltres": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Tailwind"
+  },
+  "Dragonair": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Dragonite": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Tailwind"
+  },
+  "Mew": {
+    "cluster": 1,
+    "smogon_label": "Transform Support",
+    "inferred_label": "Transform Support"
+  },
+  "Bayleef": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Meganium": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Substitute"
+  },
+  "Quilava": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Typhlosion": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Croconaw": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Feraligatr": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Furret": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Rage Powder"
+  },
+  "Crobat": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Lanturn": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Defensive"
+  },
+  "Togetic": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Rage Powder"
+  },
+  "Xatu": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me"
+  },
+  "Ampharos": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Attacker"
+  },
+  "Ampharos-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Bellossom": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Azumarill": {
+    "cluster": 3,
+    "smogon_label": "Megabus",
+    "inferred_label": "Megabus"
+  },
+  "Sudowoodo": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Politoed": {
+    "cluster": 3,
+    "smogon_label": "Rain Setter",
+    "inferred_label": "Rain Setter"
+  },
+  "Jumpluff": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive Quiver Dance"
+  },
+  "Sunflora": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Quagsire": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Espeon": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Umbreon": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Murkrow": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Slowking": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Trick Room Setter"
+  },
+  "Misdreavus": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Wobbuffet": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Trick Room Trapper"
+  },
+  "Girafarig": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Forretress": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Dunsparce": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Gligar": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Swords Dance"
+  },
+  "Steelix": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Steelix-Mega": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Life Orb Attacker"
+  },
+  "Granbull": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Pivot"
+  },
+  "Scizor": {
+    "cluster": 2,
+    "smogon_label": "Swords Dance",
+    "inferred_label": "Swords Dance"
+  },
+  "Scizor-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Shuckle": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Heracross": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Heracross-Mega": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Sneasel": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Power-Up Punch"
+  },
+  "Ursaring": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Piloswine": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Octillery": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Skarmory": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Houndoom": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Houndoom-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Kingdra": {
+    "cluster": 3,
+    "smogon_label": "Rain Attacker",
+    "inferred_label": "Rain Attacker"
+  },
+  "Donphan": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Porygon2": {
+    "cluster": 1,
+    "smogon_label": "Trick Room",
+    "inferred_label": "Trick Room"
+  },
+  "Stantler": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Pivot"
+  },
+  "Smeargle": {
+    "cluster": 0,
+    "smogon_label": "GeoPass",
+    "inferred_label": "GeoPass"
+  },
+  "Hitmontop": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Pivot"
+  },
+  "Miltank": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Blissey": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Defensive"
+  },
+  "Pupitar": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Tyranitar": {
+    "cluster": 2,
+    "smogon_label": "Dragon Dance",
+    "inferred_label": "Dragon Dance"
+  },
+  "Tyranitar-Mega": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Dragon Dance"
+  },
+  "Celebi": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Attacker"
+  },
+  "Grovyle": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Sceptile": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Sceptile-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive"
+  },
+  "Combusken": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Blaziken": {
+    "cluster": 0,
+    "smogon_label": "Mixed Attacker",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Blaziken-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive"
+  },
+  "Marshtomp": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Swampert": {
+    "cluster": 3,
+    "smogon_label": "Swift Swim Attacker",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Swampert-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Mightyena": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Pivot"
+  },
+  "Linoone": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Ludicolo": {
+    "cluster": 3,
+    "smogon_label": "Special Attacker",
+    "inferred_label": "Special Attacker"
+  },
+  "Gardevoir-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Breloom": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Vigoroth": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Slaking": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Substitute"
+  },
+  "Ninjask": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Hazard Setter"
+  },
+  "Exploud": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Hariyama": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Power-Up Punch"
+  },
+  "Sableye-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Mawile-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "GeoPass"
+  },
+  "Lairon": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Aggron": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Aggron-Mega": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Medicham": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Medicham-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Manectric": {
+    "cluster": 0,
+    "smogon_label": "Fast Attacker",
+    "inferred_label": "Fast Attacker"
+  },
+  "Manectric-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Assault Vest"
+  },
+  "Plusle": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Attacker"
+  },
+  "Minun": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Attacker"
+  },
+  "Roselia": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Swalot": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Sharpedo": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Sharpedo-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Wailmer": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Wailord": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Camerupt": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Camerupt-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Grumpig": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Cacturne": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Altaria": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Sun Attacker"
+  },
+  "Altaria-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Zangoose": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Seviper": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Whiscash": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Crawdaunt": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Claydol": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Cradily": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Armaldo": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Milotic": {
+    "cluster": 3,
+    "smogon_label": "Defensive",
+    "inferred_label": "Defensive"
+  },
+  "Castform-Snowy": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "GeoPass"
+  },
+  "Kecleon": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Power-Up Punch"
+  },
+  "Banette": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Banette-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Dusclops": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Mixed Attacker"
+  },
+  "Tropius": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Absol": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Absol-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "GeoPass"
+  },
+  "Glalie": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Glalie-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Sealeo": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Walrein": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Huntail": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Gorebyss": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Relicanth": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Shelgon": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Salamence": {
+    "cluster": 0,
+    "smogon_label": "Special Attacker",
+    "inferred_label": "Special Attacker"
+  },
+  "Salamence-Mega": {
+    "cluster": 0,
+    "smogon_label": "Mixed Attacker",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Metang": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Metagross": {
+    "cluster": 2,
+    "smogon_label": "Mega Physical Attacker",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Metagross-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Regirock": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Regice": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Defensive"
+  },
+  "Registeel": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Latias": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Latios": {
+    "cluster": 1,
+    "smogon_label": "Special Attacker",
+    "inferred_label": "Special Attacker"
+  },
+  "Deoxys": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Support"
+  },
+  "Deoxys-Attack": {
+    "cluster": 0,
+    "smogon_label": "Fast Mixed Attacker",
+    "inferred_label": "Fast Mixed Attacker"
+  },
+  "Deoxys-Defense": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Deoxys-Speed": {
+    "cluster": 0,
+    "smogon_label": "Hazard Setter",
+    "inferred_label": "Hazard Setter"
+  },
+  "Grotle": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Torterra": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Monferno": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Infernape": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Staraptor": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Bibarel": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Luxray": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Assault Vest"
+  },
+  "Roserade": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "SubCM"
+  },
+  "Rampardos": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Bastiodon": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Mothim": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Sun Attacker"
+  },
+  "Vespiquen": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Sun Attacker"
+  },
+  "Pachirisu": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Rage Powder"
+  },
+  "Floatzel": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Cherrim-Sunshine": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Gastrodon": {
+    "cluster": 3,
+    "smogon_label": "Recover + 3 Attacks",
+    "inferred_label": "Recover + 3 Attacks"
+  },
+  "Ambipom": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Support"
+  },
+  "Drifblim": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me"
+  },
+  "Lopunny": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Lopunny-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive"
+  },
+  "Mismagius": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Honchkrow": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me"
+  },
+  "Purugly": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Power-Up Punch"
+  },
+  "Skuntank": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Bronzong": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Chatot": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Sun Attacker"
+  },
+  "Spiritomb": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Gabite": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Garchomp": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Attacker"
+  },
+  "Garchomp-Mega": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Life Orb Attacker"
+  },
+  "Lucario": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Lucario-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive"
+  },
+  "Hippowdon": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Dragon Dance"
+  },
+  "Drapion": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Toxicroak": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Carnivine": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Rage Powder"
+  },
+  "Lumineon": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Abomasnow": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Abomasnow-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Weavile": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Tail Glow"
+  },
+  "Lickilicky": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Rhyperior": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Tangrowth": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Electivire": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Band"
+  },
+  "Magmortar": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Togekiss": {
+    "cluster": 0,
+    "smogon_label": "Follow Me",
+    "inferred_label": "Follow Me"
+  },
+  "Yanmega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Gliscor": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Swords Dance"
+  },
+  "Mamoswine": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Porygon-Z": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Gallade-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Probopass": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Life Orb Attacker"
+  },
+  "Dusknoir": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Froslass": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Rotom": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Support"
+  },
+  "Rotom-Heat": {
+    "cluster": 0,
+    "smogon_label": "Bulky Support",
+    "inferred_label": "Bulky Support"
+  },
+  "Rotom-Wash": {
+    "cluster": 0,
+    "smogon_label": "Special Tank",
+    "inferred_label": "Special Tank"
+  },
+  "Rotom-Frost": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Support"
+  },
+  "Rotom-Fan": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Support"
+  },
+  "Rotom-Mow": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Support"
+  },
+  "Uxie": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive Trick Room"
+  },
+  "Mesprit": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive Trick Room"
+  },
+  "Azelf": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Regigigas": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Substitute"
+  },
+  "Phione": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Manaphy": {
+    "cluster": 3,
+    "smogon_label": "Tail Glow",
+    "inferred_label": "Tail Glow"
+  },
+  "Darkrai": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Shaymin": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Sun Attacker"
+  },
+  "Shaymin-Sky": {
+    "cluster": 0,
+    "smogon_label": "Offensive",
+    "inferred_label": "Offensive"
+  },
+  "Victini": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Band"
+  },
+  "Servine": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Serperior": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive"
+  },
+  "Pignite": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Emboar": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Dewott": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Samurott": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Watchog": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Support"
+  },
+  "Stoutland": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Sand Rush Attacker"
+  },
+  "Liepard": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Simisage": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Simisear": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Simipour": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Musharna": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Unfezant": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Zebstrika": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Support"
+  },
+  "Swoobat": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Attacker"
+  },
+  "Excadrill": {
+    "cluster": 2,
+    "smogon_label": "Sand Rush Attacker",
+    "inferred_label": "Sand Rush Attacker"
+  },
+  "Audino": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Gurdurr": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Conkeldurr": {
+    "cluster": 2,
+    "smogon_label": "Bulky Attacker",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Seismitoad": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Throh": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Sawk": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Leavanny": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Scolipede": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Whimsicott": {
+    "cluster": 0,
+    "smogon_label": "Prankster",
+    "inferred_label": "Prankster"
+  },
+  "Lilligant": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Basculin": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Basculin-Blue-Striped": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "GeoPass"
+  },
+  "Krookodile": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Assault Vest"
+  },
+  "Darmanitan": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Maractus": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Scrafty": {
+    "cluster": 2,
+    "smogon_label": "Pivot",
+    "inferred_label": "Pivot"
+  },
+  "Sigilyph": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me"
+  },
+  "Cofagrigus": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Carracosta": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Rain Attacker"
+  },
+  "Archen": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Swords Dance"
+  },
+  "Archeops": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Swords Dance"
+  },
+  "Garbodor": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Zoroark": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Cinccino": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Support"
+  },
+  "Gothitelle": {
+    "cluster": 1,
+    "smogon_label": "Trick Room Trapper",
+    "inferred_label": "Trick Room Trapper"
+  },
+  "Reuniclus": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Swanna": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Sawsbuck": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Tank"
+  },
+  "Emolga": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Attacker"
+  },
+  "Escavalier": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Amoonguss": {
+    "cluster": 0,
+    "smogon_label": "Rage Powder",
+    "inferred_label": "Rage Powder"
+  },
+  "Jellicent": {
+    "cluster": 3,
+    "smogon_label": "Bulky Trick Room Setter",
+    "inferred_label": "Bulky Trick Room Setter"
+  },
+  "Alomomola": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Galvantula": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Attacker"
+  },
+  "Ferrothorn": {
+    "cluster": 2,
+    "smogon_label": "Bulky Attacker",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Klang": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Klinklang": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Eelektrik": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Support"
+  },
+  "Eelektross": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Support"
+  },
+  "Beheeyem": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Chandelure": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Fraxure": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Haxorus": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Accelgor": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Band"
+  },
+  "Stunfisk": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Mienshao": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Power-Up Punch"
+  },
+  "Druddigon": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Golurk": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Swift Swim Attacker"
+  },
+  "Bisharp": {
+    "cluster": 2,
+    "smogon_label": "All-Out Attacker",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Bouffalant": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Braviary": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Swords Dance"
+  },
+  "Mandibuzz": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me"
+  },
+  "Heatmor": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Durant": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Zweilous": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Support"
+  },
+  "Hydreigon": {
+    "cluster": 1,
+    "smogon_label": "Special Attacker",
+    "inferred_label": "Special Attacker"
+  },
+  "Volcarona": {
+    "cluster": 0,
+    "smogon_label": "Offensive Quiver Dance",
+    "inferred_label": "Offensive Quiver Dance"
+  },
+  "Cobalion": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Band"
+  },
+  "Terrakion": {
+    "cluster": 2,
+    "smogon_label": "Physical Attacker",
+    "inferred_label": "Physical Attacker"
+  },
+  "Virizion": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Substitute"
+  },
+  "Tornadus": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Tornadus-Therian": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Offensive"
+  },
+  "Thundurus": {
+    "cluster": 0,
+    "smogon_label": "Special Attacker",
+    "inferred_label": "Special Attacker"
+  },
+  "Thundurus-Therian": {
+    "cluster": 0,
+    "smogon_label": "Choice Scarf",
+    "inferred_label": "Choice Scarf"
+  },
+  "Landorus": {
+    "cluster": 2,
+    "smogon_label": "Life Orb Attacker",
+    "inferred_label": "Life Orb Attacker"
+  },
+  "Landorus-Therian": {
+    "cluster": 0,
+    "smogon_label": "Assault Vest",
+    "inferred_label": "Assault Vest"
+  },
+  "Kyurem": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Substitute"
+  },
+  "Kyurem-Black": {
+    "cluster": 3,
+    "smogon_label": "Substitute",
+    "inferred_label": "Substitute"
+  },
+  "Keldeo": {
+    "cluster": 3,
+    "smogon_label": "All-Out Attacker",
+    "inferred_label": "All-Out Attacker"
+  },
+  "Keldeo-Resolute": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Meloetta": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "SubCM"
+  },
+  "Meloetta-Pirouette": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Genesect": {
+    "cluster": 0,
+    "smogon_label": "Choice Band",
+    "inferred_label": "Choice Band"
+  },
+  "Genesect-Douse": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Genesect-Shock": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Genesect-Burn": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Genesect-Chill": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Quilladin": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Chesnaught": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Braixen": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Delphox": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Frogadier": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "GeoPass"
+  },
+  "Diggersby": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Physical Attacker"
+  },
+  "Talonflame": {
+    "cluster": 0,
+    "smogon_label": "Gale Wings Attacker",
+    "inferred_label": "Gale Wings Attacker"
+  },
+  "Pyroar": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Florges": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "SubCM"
+  },
+  "Gogoat": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Pangoro": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Furfrou": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Meowstic-F": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Power-Up Punch"
+  },
+  "Doublade": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Bulky Attacker"
+  },
+  "Aromatisse": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "SubCM"
+  },
+  "Slurpuff": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Malamar": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Barbaracle": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Physical Attacker"
+  },
+  "Dragalge": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Clawitzer": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Megabus"
+  },
+  "Heliolisk": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Band"
+  },
+  "Tyrantrum": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Specially Defensive"
+  },
+  "Aurorus": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Defensive"
+  },
+  "Sylveon": {
+    "cluster": 0,
+    "smogon_label": "SubCM",
+    "inferred_label": "SubCM"
+  },
+  "Dedenne": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Fast Support"
+  },
+  "Carbink": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Mixed Attacker"
+  },
+  "Sliggoo": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Goodra": {
+    "cluster": 3,
+    "smogon_label": "No Label",
+    "inferred_label": "Wide Guard Tank"
+  },
+  "Klefki": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Special Attacker"
+  },
+  "Trevenant": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Mixed Attacker"
+  },
+  "Gourgeist": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Gourgeist-Super": {
+    "cluster": 2,
+    "smogon_label": "No Label",
+    "inferred_label": "Mega Mixed Attacker"
+  },
+  "Diancie": {
+    "cluster": 2,
+    "smogon_label": "Mega Mixed Attacker",
+    "inferred_label": "Mega Mixed Attacker"
+  },
+  "Diancie-Mega": {
+    "cluster": 0,
+    "smogon_label": "No Label",
+    "inferred_label": "Choice Scarf"
+  },
+  "Hoopa": {
+    "cluster": 1,
+    "smogon_label": "No Label",
+    "inferred_label": "Follow Me Support"
+  },
+  "Hoopa-Unbound": {
+    "cluster": 0,
+    "smogon_label": "Mixed Attacker",
+    "inferred_label": "Mixed Attacker"
+  },
+  "Volcanion": {
+    "cluster": 2,
+    "smogon_label": "Specially Defensive",
+    "inferred_label": "Specially Defensive"
+  }
+}

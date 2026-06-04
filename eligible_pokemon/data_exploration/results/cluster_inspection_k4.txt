@@ -1,0 +1,80 @@
+Silhouette scores:
+  k=2: 0.117
+  k=3: 0.130
+  k=4: 0.136
+  k=5: 0.161
+  k=6: 0.132
+  k=7: 0.142
+  k=8: 0.143
+  k=9: 0.154
+
+Cluster 0 (purity: 0.11, dominant: Mixed Attacker, labeled: 27/238):
+  Heatran: ['Substitute']
+  Venusaur: ['Mega Tank', 'Special Attacker']
+  Charizard: ['Sun Attacker', 'Dragon Dance']
+  Raichu: ['Fast Support']
+  Clefairy: ['Friend Guard Support']
+  Zapdos: ['Bulky Tailwind']
+  Smeargle: ['GeoPass']
+  Blaziken: ['Mixed Attacker']
+  Manectric: ['Fast Attacker']
+  Salamence: ['Special Attacker']
+  Salamence-Mega: ['Mixed Attacker']
+  Deoxys-Attack: ['Fast Mixed Attacker']
+  Deoxys-Speed: ['Hazard Setter']
+  Togekiss: ['Follow Me']
+  Rotom-Heat: ['Bulky Support']
+  Rotom-Wash: ['Special Tank', 'Choice Scarf']
+  Shaymin-Sky: ['Offensive']
+  Whimsicott: ['Prankster']
+  Amoonguss: ['Rage Powder']
+  Volcarona: ['Offensive Quiver Dance']
+  Thundurus: ['Special Attacker', 'Bulky Thunder Wave']
+  Thundurus-Therian: ['Choice Scarf', 'Choice Specs']
+  Landorus-Therian: ['Assault Vest', 'Choice Scarf']
+  Genesect: ['Choice Band', 'Choice Scarf']
+  Talonflame: ['Gale Wings Attacker']
+  Sylveon: ['SubCM']
+  Hoopa-Unbound: ['Mixed Attacker', 'Offensive Trick Room']
+
+Cluster 1 (purity: 0.38, dominant: Special Attacker, labeled: 8/63):
+  Gengar: ['Special Attacker', 'Offensive Support']
+  Gardevoir: ['Bulky Special Attacker']
+  Cresselia: ['Offensive Trick Room', 'Calm Mind', 'Support']
+  Mew: ['Transform Support']
+  Porygon2: ['Trick Room']
+  Latios: ['Special Attacker']
+  Gothitelle: ['Trick Room Trapper']
+  Hydreigon: ['Special Attacker', 'Bulky Attacker']
+
+Cluster 2 (purity: 0.14, dominant: Bulky Attacker, labeled: 14/108):
+  Entei: ['Attacker']
+  Aegislash: ['Wide Guard Tank', 'Substitute Leftovers']
+  Scizor: ['Swords Dance']
+  Tyranitar: ['Dragon Dance']
+  Metagross: ['Mega Physical Attacker']
+  Excadrill: ['Sand Rush Attacker']
+  Conkeldurr: ['Bulky Attacker']
+  Scrafty: ['Pivot']
+  Ferrothorn: ['Bulky Attacker']
+  Bisharp: ['All-Out Attacker']
+  Terrakion: ['Physical Attacker']
+  Landorus: ['Life Orb Attacker']
+  Diancie: ['Mega Mixed Attacker', 'Offensive Trick Room']
+  Volcanion: ['Specially Defensive', 'Safety Goggles']
+
+Cluster 3 (purity: 0.07, dominant: Bulky Tailwind, labeled: 14/98):
+  Suicune: ['Bulky Tailwind']
+  Clefable: ['Follow Me Support']
+  Kangaskhan: ['Power-Up Punch', 'All-Out Attacker']
+  Azumarill: ['Megabus']
+  Politoed: ['Rain Setter']
+  Kingdra: ['Rain Attacker']
+  Swampert: ['Swift Swim Attacker', 'Non-Mega Support']
+  Ludicolo: ['Special Attacker', 'Life Orb Attacker']
+  Milotic: ['Defensive', 'Offensive']
+  Gastrodon: ['Recover + 3 Attacks']
+  Manaphy: ['Tail Glow']
+  Jellicent: ['Bulky Trick Room Setter']
+  Kyurem-Black: ['Substitute', 'Choice Scarf']
+  Keldeo: ['All-Out Attacker']
